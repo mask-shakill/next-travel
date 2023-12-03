@@ -7,9 +7,9 @@ const Navbar = () => {
       <nav className=" bg-nav-color text-black flex items-center justify-evenly py-3">
         <div className="flex items-center ">
           <img
-            src="https://cdn-icons-png.flaticon.com/128/3278/3278959.png?ga=GA1.1.945868740.1697346172&semt=ais"
-            height={30}
-            width={30}
+            src="https://cdn-icons-png.flaticon.com/128/9502/9502563.png?ga=GA1.1.945868740.1697346172&semt=ais"
+            height={40}
+            width={40}
             alt=""
           />
 

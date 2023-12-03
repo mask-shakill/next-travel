@@ -1,0 +1,64 @@
+{
+  "instagramStories": [
+    {
+      "id": 1,
+      "name": "Paris",
+      "intro": "Paris is the most Vibrant place",
+      "url": "https://img.freepik.com/free-photo/beautiful-vertical-shot-eiffel-tower-bright-blue-sky_181624-39894.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    },
+    {
+      "id": 2,
+      "name": "Tokyo",
+      "intro": "Explore the vibrant city of Tokyo",
+      "url": "https://img.freepik.com/free-photo/view-street-city-night-with-lights-people_23-2148757071.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    },
+    {
+      "id": 3,
+      "name": "New York",
+      "intro": "Experience the energy of the city that never sleeps",
+      "url": "https://img.freepik.com/free-photo/vertical-cityscape-with-tall-skyscrapers-new-york-usa_181624-6511.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=ais"
+    },
+    {
+      "id": 4,
+      "name": "Rome",
+      "intro": "Discover the ancient charm of Rome",
+      "url": "https://img.freepik.com/free-photo/vertical-shot-famous-colosseum-rome-italy-during-sunset_181624-52589.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    },
+    {
+      "id": 5,
+      "name": "Sydney",
+      "intro": "Enjoy the stunning views of Sydney Harbor",
+      "url": "https://img.freepik.com/free-photo/toronto-skyline-day_649448-3504.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    },
+    {
+      "id": 6,
+      "name": "Cape Town",
+      "intro": "Visit the breathtaking landscapes of Cape Town",
+      "url": "https://img.freepik.com/free-photo/sea-scenery-with-cliffs-during-sunset-perfect-wallpaper_181624-29841.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=ais"
+    },
+    {
+      "id": 7,
+      "name": "Rio de Janeiro",
+      "intro": "Experience the vibrant culture of Rio de Janeiro",
+      "url": "https://img.freepik.com/free-photo/sugarloaf-mountain-cable-car-during-sunset_181624-36743.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=ais"
+    },
+    {
+      "id": 8,
+      "name": "Kyoto",
+      "intro": "Immerse yourself in the historical beauty of Kyoto",
+      "url": "https://img.freepik.com/free-photo/kinkakuji-temple_74190-5388.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    },
+    {
+      "id": 9,
+      "name": "Barcelona",
+      "intro": "Explore the architectural wonders of Barcelona",
+      "url": "https://img.freepik.com/free-photo/parc-guell-visitors-viewpoint-with-unusual-architectural-style-cityscape-barcelona_1268-18051.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    },
+    {
+      "id": 10,
+      "name": "Dubai",
+      "intro": "Discover the luxury and modernity of Dubai",
+      "url": "https://img.freepik.com/premium-photo/18-january-2023-dubai-uae-scenic-view-dubai-skyline-with-burj-khalifa-towering-all-other-buildings-sightseeing-travel-destinations-arab-emirates_984126-283.jpg?size=626&ext=jpg&ga=GA1.1.945868740.1697346172&semt=sph"
+    }
+  ]
+}

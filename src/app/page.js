@@ -1,13 +1,12 @@
-import BrandCarousel from "@/components/Brand-Header/BrandCarousel";
 import BrandName from "@/components/Brand-Header/BrandName";
+import BannerCarousel from "@/components/CarouselSlider/BannerCarousel";
 import React from "react";
 
 const Page = () => {
   return (
     <div>
       <BrandName />
-
-      <BrandCarousel />
+      <BannerCarousel />
     </div>
   );
 };

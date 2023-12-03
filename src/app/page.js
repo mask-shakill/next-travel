@@ -1,13 +1,15 @@
+import BrandCarousel from "@/components/Brand-Header/BrandCarousel";
+import BrandName from "@/components/Brand-Header/BrandName";
 import React from "react";
 
-const page = () => {
+const Page = () => {
   return (
     <div>
-      <h1>Home page or main page</h1>
+      <BrandName />
+
+      <BrandCarousel />
     </div>
   );
 };
 
-export default page;
-
-<h1>Home page or main page</h1>;
+export default Page;

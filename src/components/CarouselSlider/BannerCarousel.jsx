@@ -21,23 +21,21 @@ const BannerCarousel = async () => {
     cssEase: "linear",
   };
   return (
-    <div className="mx-20 ">
-      <div>
+    <div className="mx-12  ">
+      <div className="mt-10">
         <Slider {...settings}>
           {instagramStories.map((story) => (
             <div
               key={story.id}
-              className="border-4 border-r-white  flex flex-col items-center  rounded-xl h-[450px] w-[320px] relative"
+              className=" shadow-2xl border-2  flex flex-col items-center  rounded-sm h-[450px] w-[320px] relative text-white"
             >
               <div>
                 <img className="h-[300px] w-[320px]" src={story.url} alt="" />
               </div>
-              <div className="text-center ">
+              <div className="text-center p-3 ">
                 <h1 className="font-bold mt-5">{story.name}</h1>
                 <p className="text-sm mb-3 mt-2">{story.intro}</p>
-                <p className="text-slate-900  absolute bottom-4 mx-28">
-                  Adventure!
-                </p>
+                <p className="  absolute bottom-4 mx-28">Adventure!</p>
               </div>
             </div>
           ))}
